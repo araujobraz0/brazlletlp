@@ -25,7 +25,7 @@ type Feature = {
   variant?: 'wide' | 'phone' | 'dark' | 'wide dark'
 }
 
-const APK_URL = 'sha256:f3b7dabe0eac5af832976e8573eeab824768984332663e0fe330755f075f6a02'
+const APK_URL = 'https://github.com/araujobraz0/brazlletlp/releases/download/v1.0.0/brazllet_v1.0.0.apk'
 
 const features: Feature[] = [
   {
